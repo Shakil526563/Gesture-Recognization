@@ -1,0 +1,1 @@
+Simple Hand Gesture Recognition is a computer vision-based application that detects and interprets hand gestures using a webcam. It utilizes MediaPipe to track hand landmarks and recognizes predefined gestures like thumbs up, peace sign, and open hand. This system can be used for interactive applications, touchless controls, or sign language recogn
